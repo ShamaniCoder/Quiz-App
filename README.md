@@ -57,5 +57,6 @@ Contributions are very welcome. If you have any suggestion to make it better, yo
 <li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox" checked=""> A user can learn the about the correct answer and look into resources (if your quiz is more educational)</li>
 
 </ul>
+
  ## Quiz App Demo
  <img src="./img/Animation.gif" style="max-width: 100%;">
